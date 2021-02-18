@@ -9,6 +9,7 @@
 </template>
 
 <style lang="scss">
+<<<<<<< HEAD
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -30,4 +31,6 @@
   }
 }
 
+=======
+>>>>>>> 62e19e288b0cbdb8f624a2e5f1e220f68eb78631
 </style>
